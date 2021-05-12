@@ -20,7 +20,7 @@
 - computer-controlled machining ／2021年7月29日（木）10:30-14:00
 #### アサインメント
 - 2021年6月3日（木）まで
-  - 各自、ウェブサイトをつくる
+  - 各自、ウェブサイトをつくる（Adobe Portfolio, WordPress, Wix, GitHubなど何でも可）
   - その中に、プロフィールページをつくる（関心領域・意気込み、音楽プレイリスト含む）
   - Fab Academy 2021のcomputer-aided designの回のレクチャーをみてくる
 

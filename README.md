@@ -13,9 +13,9 @@
   
 ### 2. ファブプラクティス
 #### プログラム・スケジュール（案）
-- 2D CAD, computer-aided design ／2021年6月3日（木）10:30-14:00
+- 2D computer-aided design ／2021年6月3日（木）10:30-14:00
 - computer-controlled cutting ／2021年6月17日（木）10:30-14:00
-- 3D CAD, computer-aided design ／2021年7月1日（木）10:30-14:00
+- 3D computer-aided design ／2021年7月1日（木）10:30-14:00
 - 3D scanning and printing ／2021年7月15日（木）10:30-14:00
 - computer-controlled machining ／2021年7月29日（木）10:30-14:00
 #### アサインメント

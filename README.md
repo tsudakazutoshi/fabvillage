@@ -22,7 +22,7 @@
 - 2021年6月3日（木）まで
   - 各自、ウェブサイトをつくる（Adobe Portfolio, WordPress, Wix, GitHubなど何でも可）
   - その中に、プロフィールページをつくる（関心領域・意気込み、音楽プレイリスト含む）
-  - Fab Academy 2021のcomputer-aided designの回のレクチャーをみてくる
+  - [Fab Academy 2021](http://fabacademy.org/2021/schedule.html)の「Feb 03: computer-aided design」のレクチャー・講義資料（特に、2D design）をみてくる
 
 ## 岡山・新庄村
 連携機関：株式会社まちづくり新庄村  

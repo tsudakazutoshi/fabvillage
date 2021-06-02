@@ -20,7 +20,7 @@
 - 2D computer-aided design ／2021年6月3日（木）10:30-14:00
   - KYOTO Design Lab ツアー
   - レビュー：ウェブサイトをみながら自己紹介、意見交換
-  - レクチャー：2D CAD、Illustrator、EMARF
+  - レクチャー：[2D CAD 各種](http://academy.cba.mit.edu/classes/computer_design/index.html)、Illustrator、[EMARF](https://emarf.co)
   - アサインメント説明
 - computer-controlled cutting ／2021年6月17日（木）10:30-14:00
 - 3D computer-aided design ／2021年7月1日（木）10:30-14:00

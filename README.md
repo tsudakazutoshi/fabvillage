@@ -28,11 +28,16 @@
 - computer-controlled machining ／2021年7月29日（木）10:30-14:00
 #### メンバー
 - [Sachiko Matsuyama](https://sachikomatsuyama.webflow.io)
+- Takuya Tsutsumi
 - [Atsuro Morita](https://stc-unit.jp)
 - [Hiroto Okuda](https://note.com/tolero/m/m217c9b31dd27)
 - [Ryota Motoyoshi](https://ryotamotoyoshi.myportfolio.com)
 - [Kazuki Tonomura](https://www.notion.so/Kazuki-Tonomura-490e662bd54145beba040ca90d5fe8c2)
 - [Arihiro Okawa](https://note.com/_a_ri_hi_ro_/m/mbc194d67e49c)
+- Hiroki Miyamoto
+- Ryoga Fujita
+- Taro Chino
+- Hiroki Takarada
 
 #### アサインメント
 - 2021年6月3日（木）まで

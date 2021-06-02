@@ -7,7 +7,7 @@
   
 ## 地域
 ### 1. 京都・京北
-- 連携機関：一般社団法人パースペクティブ（[工藝の森](https://www.forest-of-craft.jp)）、[大阪大学エスノグラフィーラボ](http://ethnography.hus.osaka-u.ac.jp)
+- 連携機関：[一般社団法人パースペクティブ（工藝の森）](https://www.forest-of-craft.jp)、[大阪大学エスノグラフィーラボ](http://ethnography.hus.osaka-u.ac.jp)
 ### 2. 岡山・新庄村
 - 連携機関：[株式会社まちづくり新庄村 さとのふ企画室](https://noph.localinfo.jp)  
   

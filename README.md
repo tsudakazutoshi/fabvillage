@@ -34,9 +34,10 @@
 - [Ryota Motoyoshi](https://ryotamotoyoshi.myportfolio.com)
 - [Kazuki Tonomura](https://www.notion.so/Kazuki-Tonomura-490e662bd54145beba040ca90d5fe8c2)
 - [Arihiro Okawa](https://note.com/_a_ri_hi_ro_/m/mbc194d67e49c)
+- [Taro Chino](https://note.com/tarochino/m/m310b0d2996ab)
+- [Reo Yasue](https://fabvillagereoyasue.myportfolio.com)
 - Hiroki Miyamoto
 - Ryoga Fujita
-- Taro Chino
 - Hiroki Takarada
 
 #### アサインメント

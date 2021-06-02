@@ -5,9 +5,13 @@
   
 担当：津田和俊、井上智博
   
-## 京都・京北地域
-連携機関：一般社団法人パースペクティブ（[工藝の森](https://www.forest-of-craft.jp)）、大阪大学エスノグラフィーラボ
-
+## 対象地域
+### 1. 京都・京北
+- 連携機関：一般社団法人パースペクティブ（[工藝の森](https://www.forest-of-craft.jp)）、大阪大学エスノグラフィーラボ
+### 2. 岡山・新庄村
+- 連携機関：[株式会社まちづくり新庄村 さとのふ企画室](https://noph.localinfo.jp)  
+  
+## 取り組み
 ### 1. マテリアルフロー調査
 - データ・ビジュアライゼーション
   
@@ -18,13 +22,18 @@
 - 3D computer-aided design ／2021年7月1日（木）10:30-14:00
 - 3D scanning and printing ／2021年7月15日（木）10:30-14:00
 - computer-controlled machining ／2021年7月29日（木）10:30-14:00
+#### メンバー
+- [Sachiko Matsuyama](https://sachikomatsuyama.webflow.io)
+- [Atsuro Morita](https://stc-unit.jp)
+- [Hiroto Okuda](https://note.com/tolero/m/m217c9b31dd27)
+- [Ryota Motoyoshi](https://ryotamotoyoshi.myportfolio.com)
+- [Kazuki Tonomura](https://www.notion.so/Kazuki-Tonomura-490e662bd54145beba040ca90d5fe8c2)
+- [Arihiro Okawa](https://note.com/_a_ri_hi_ro_/m/mbc194d67e49c)
+
 #### アサインメント
 - 2021年6月3日（木）まで
   - 各自、ウェブサイトをつくる（Adobe Portfolio, WordPress, Wix, GitHubなど何でも可）
   - その中に、プロフィールページをつくる（関心領域・意気込み、音楽プレイリスト含む）
   - [Fab Academy 2021](http://fabacademy.org/2021/schedule.html)の「Feb 03: computer-aided design」のレクチャー・講義資料（特に、2D design）をみてくる
 
-## 岡山・新庄村
-連携機関：[株式会社まちづくり新庄村 さとのふ企画室](https://noph.localinfo.jp)  
 
-- 現況の共有／2021年5月20日（木）10:30-11:30

@@ -38,7 +38,7 @@
 - [Reo Yasue](https://fabvillagereoyasue.myportfolio.com)
 - [Mizuki Miyamoto](http://mizkingyo.starfree.jp)
 - Ryoga Fujita
-- Hiroki Takarada
+- [Hiroki Takarada](https://takahiro110710.wixsite.com/my-site-7)
 
 #### アサインメント
 - 2021年6月3日（木）まで

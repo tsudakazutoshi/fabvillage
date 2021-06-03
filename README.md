@@ -29,6 +29,9 @@
 #### メンバー
 - [Sachiko Matsuyama](https://sachikomatsuyama.webflow.io)
 - Takuya Tsutsumi
+- Tadashi Koike
+- [Kentaro Noda](https://noda33.myportfolio.com)
+- [Robin Hoshino](https://fab-practice-robin-profile.webflow.io)
 - [Atsuro Morita](https://stc-unit.jp)
 - [Hiroto Okuda](https://note.com/tolero/m/m217c9b31dd27)
 - [Ryota Motoyoshi](https://ryotamotoyoshi.myportfolio.com)

@@ -37,8 +37,8 @@
 - [Taro Chino](https://note.com/tarochino/m/m310b0d2996ab)
 - [Reo Yasue](https://fabvillagereoyasue.myportfolio.com)
 - [Mizuki Miyamoto](http://mizkingyo.starfree.jp)
-- Ryoga Fujita
 - [Hiroki Takarada](https://takahiro110710.wixsite.com/my-site-7)
+- Ryoga Fujita
 
 #### アサインメント
 - 2021年6月3日（木）まで

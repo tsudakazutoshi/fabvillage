@@ -36,7 +36,7 @@
 - [Arihiro Okawa](https://note.com/_a_ri_hi_ro_/m/mbc194d67e49c)
 - [Taro Chino](https://note.com/tarochino/m/m310b0d2996ab)
 - [Reo Yasue](https://fabvillagereoyasue.myportfolio.com)
-- [Hiroki Miyamoto](http://mizkingyo.starfree.jp)
+- [Mizuki Miyamoto](http://mizkingyo.starfree.jp)
 - Ryoga Fujita
 - Hiroki Takarada
 

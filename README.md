@@ -50,7 +50,7 @@
 - [Reo Yasue](https://fabvillagereoyasue.myportfolio.com)
 - [Mizuki Miyamoto](http://mizkingyo.starfree.jp)
 - [Hiroki Takarada](https://takahiro110710.wixsite.com/my-site-7)
-- Ryoga Fujita
+- [Ryoga Fujita](https://rfdesign210.wixsite.com/my-site-1)
 
 
 

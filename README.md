@@ -31,6 +31,9 @@
     - そのプロセスをドキュメンテーションして、ウェブサイトに掲載する
     - [Fab Academy 2021](http://fabacademy.org/2021/schedule.html)の「Feb 10: computer-controlled cutting」の[レクチャー](https://vimeo.com/510902064)・[講義資料](http://academy.cba.mit.edu/classes/computer_cutting/index.html)をみてくる
 - computer-controlled cutting ／2021年6月17日（木）10:30-14:00
+  - レビュー
+  - レクチャー
+  - アサインメント
 - 3D computer-aided design ／2021年7月1日（木）10:30-14:00
 - 3D scanning and printing ／2021年7月15日（木）10:30-14:00
 - computer-controlled machining ／2021年7月29日（木）10:30-14:00

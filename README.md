@@ -37,7 +37,7 @@
     - レーザーカッターを使って、自分・自分たちのプロジェクトに関連したものをつくる
     - オプション：カッティングプロッタを使って何かつくる
     - そのプロセスをドキュメンテーションして、ウェブサイトに掲載する
-    - [Fab Academy 2021](http://fabacademy.org/2021/schedule.html)の「Feb 03: computer-aided design」のレクチャー・講義資料（特に、3D designの部分）をみてくる
+    - [Fab Academy 2021](http://fabacademy.org/2021/schedule.html)の「Feb 03: computer-aided design」の[レクチャー](https://vimeo.com/508409220)・[講義資料（特に、3D designの部分）](http://academy.cba.mit.edu/classes/computer_design/index.html)をみてくる
 - 3D computer-aided design ／2021年7月1日（木）10:30-14:30
 - Urushi ／2021年7月8日（木）
   - 堤淺吉漆店を見学させていただく

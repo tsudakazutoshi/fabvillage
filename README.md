@@ -18,7 +18,7 @@
 ### 2. ファブプラクティス
 #### プログラム・スケジュール
 - project management
-  - アサインメント 
+  - アサインメント： 
     - 各自、ウェブサイトをつくる（Adobe Portfolio, WordPress, Wix, GitHubなど何でも可）
     - その中に、プロフィールページをつくる（関心領域・意気込み、音楽プレイリスト含む）
     - [Fab Academy 2021](http://fabacademy.org/2021/schedule.html)の「Feb 03: computer-aided design」のレクチャー・講義資料（特に、2D design）をみてくる
@@ -26,17 +26,22 @@
   - KYOTO Design Lab ツアー
   - レビュー：ウェブサイトをみながら自己紹介、意見交換
   - レクチャー：[2D CAD 各種](http://academy.cba.mit.edu/classes/computer_design/index.html)、Illustrator、[EMARF](https://emarf.co)
-  - アサインメント
+  - アサインメント：
     - 2Dのデータ（ドローイング、図面など、自分・自分たちのプロジェクトに関連したもの）をつくる
     - そのプロセスをドキュメンテーションして、ウェブサイトに掲載する
     - [Fab Academy 2021](http://fabacademy.org/2021/schedule.html)の「Feb 10: computer-controlled cutting」の[レクチャー](https://vimeo.com/510902064)・[講義資料](http://academy.cba.mit.edu/classes/computer_cutting/index.html)をみてくる
 - computer-controlled cutting ／2021年6月17日（木）10:30-14:00
   - レビュー
-  - レクチャー
-  - アサインメント
-- 3D computer-aided design ／2021年7月1日（木）10:30-14:00
-- 3D scanning and printing ／2021年7月15日（木）10:30-14:00
-- computer-controlled machining ／2021年7月29日（木）10:30-14:00
+  - レクチャー：[カッティングの基礎](http://academy.cba.mit.edu/classes/computer_cutting/index.html)、レーザーカッターの実演
+  - アサインメント：
+    - レーザーカッターを使って、自分・自分たちのプロジェクトに関連したものをつくる
+    - そのプロセスをドキュメンテーションして、ウェブサイトに掲載する
+    - [Fab Academy 2021](http://fabacademy.org/2021/schedule.html)の「Feb 03: computer-aided design」のレクチャー・講義資料（特に、3D designの部分）をみてくる
+- 3D computer-aided design ／2021年7月1日（木）10:30-14:30
+- Urushi ／2021年7月8日（木）
+  - 堤淺吉漆店を見学させていただく
+- 3D scanning and printing ／2021年7月15日（木）10:30-14:30
+- computer-controlled machining ／2021年7月29日（木）10:30-14:30
   
 #### メンバー
 - [Sachiko Matsuyama](https://sachikomatsuyama.webflow.io)

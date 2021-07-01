@@ -40,7 +40,10 @@
     - そのプロセスをドキュメンテーションして、ウェブサイトに掲載する
     - [Fab Academy 2021](http://fabacademy.org/2021/schedule.html)の「Feb 03: computer-aided design」の[レクチャー](https://vimeo.com/508409220)・[講義資料（特に、3D designの部分）](http://academy.cba.mit.edu/classes/computer_design/index.html)をみてくる
 - 3D computer-aided design ／2021年7月1日（木）10:30-14:30
-- Urushi ／2021年7月8日（木）
+  - レビュー
+  - レクチャー：
+  - アサインメント：
+- Urushi ／2021年7月8日（木）13:00-14:30（※現地集合・解散）
   - 堤淺吉漆店を見学させていただく
 - 3D scanning and printing ／2021年7月15日（木）10:30-14:30
 - computer-controlled machining ／2021年7月29日（木）10:30-14:30

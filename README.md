@@ -46,7 +46,7 @@
     - Rhinoceros 3Dの復習をする
     - オプション：いろいろなCADソフトウェアを使ってみる
 - Urushi ／2021年7月8日（木）13:00-14:30（※現地集合・解散）
-  - 堤淺吉漆店を見学させていただく
+  - [堤淺吉漆店](https://www.urushinoippo.com/companyinfo)を見学させていただく
 - 3D computer-aided design, 3D scanning and printing ／2021年7月15日（木）10:30-14:30
   - レクチャー：Rhinoceros 3D
   - アサインメント：

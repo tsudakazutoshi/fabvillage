@@ -32,7 +32,7 @@
     - そのプロセスをドキュメンテーションして、ウェブサイトに掲載する
     - [Fab Academy 2021](http://fabacademy.org/2021/schedule.html)の「Feb 10: computer-controlled cutting」の[レクチャー](https://vimeo.com/510902064)・[講義資料](http://academy.cba.mit.edu/classes/computer_cutting/index.html)をみてくる
 - computer-controlled cutting ／2021年6月17日（木）10:30-14:00
-  - レビュー
+  - レビュー：
   - レクチャー：[カッティングの基礎](http://academy.cba.mit.edu/classes/computer_cutting/index.html)、レーザーカッターの実演
   - アサインメント：
     - レーザーカッターを使って、自分・自分たちのプロジェクトに関連したものをつくる
@@ -40,7 +40,7 @@
     - そのプロセスをドキュメンテーションして、ウェブサイトに掲載する
     - [Fab Academy 2021](http://fabacademy.org/2021/schedule.html)の「Feb 03: computer-aided design」の[レクチャー](https://vimeo.com/508409220)・[講義資料（特に、3D designの部分）](http://academy.cba.mit.edu/classes/computer_design/index.html)をみてくる
 - 3D computer-aided design ／2021年7月1日（木）10:30-14:30
-  - レビュー
+  - レビュー：
   - レクチャー：Rhinoceros 3D
   - アサインメント：
     - Rhinoceros 3Dの復習をする
@@ -48,7 +48,12 @@
 - Urushi ／2021年7月8日（木）13:00-14:30（※現地集合・解散）
   - 堤淺吉漆店を見学させていただく
 - 3D computer-aided design, 3D scanning and printing ／2021年7月15日（木）10:30-14:30
+  - レクチャー：Rhinoceros 3D
+  - アサインメント：
 - computer-controlled machining ／2021年7月29日（木）10:30-14:30
+  - レビュー：
+  - レクチャー：
+  - アサインメント：
   
 #### メンバー
 - [Sachiko Matsuyama](https://sachikomatsuyama.webflow.io)

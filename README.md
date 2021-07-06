@@ -44,7 +44,8 @@
   - レクチャー：Rhinoceros 3D
   - アサインメント：
     - Rhinoceros 3Dの復習をする
-    - オプション：いろいろなCADソフトウェアを使ってみる
+      - 愛用の什器（椅子、机など）を採寸して図面（平面図、立面図、断面図）を作成する
+    - オプション：いろいろなCADソフトウェア（Blender、FreeCADなど）を使ってみる
 - Urushi ／2021年7月8日（木）13:00-14:30（※現地集合・解散）
   - [堤淺吉漆店](https://www.urushinoippo.com/companyinfo)を見学させていただく
 - 3D computer-aided design, 3D scanning and printing ／2021年7月15日（木）10:30-14:30

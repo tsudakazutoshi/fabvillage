@@ -16,6 +16,7 @@
 ## 取り組み
 ### 1. マテリアルフロー調査
 - 現状調査（森林簿、統計、補助金）
+- 質問紙の作成
 - データ・ビジュアライゼーション
   - [RAWGraphs](https://rawgraphs.io) [(GitHub)](https://github.com/rawgraphs/)
   

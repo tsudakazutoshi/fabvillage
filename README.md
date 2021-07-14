@@ -65,7 +65,7 @@
 - Takuya Tsutsumi
 - [Tadashi Koike](https://note.com/tucicara_keihoku/)
 - [Kentaro Noda](https://noda33.myportfolio.com)
-- [Robin Hoshino](https://fab-practice-robin-profile.webflow.io)
+- Robin Hoshino
 - [Atsuro Morita](https://stc-unit.jp)
 - [Hiroto Okuda](https://note.com/tolero/m/m217c9b31dd27)
 - [Ryota Motoyoshi](https://ryotamotoyoshi.myportfolio.com)

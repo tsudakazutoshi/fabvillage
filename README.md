@@ -54,8 +54,9 @@
   - [堤淺吉漆店](https://www.urushinoippo.com/companyinfo)を見学させていただく
 - 3D computer-aided design ／2021年7月15日（木）10:30-14:30
   - レクチャー：Rhinoceros 3D
-  - アサインメント：自分・自分たちのプロジェクトに関連したものを3Dモデリングする
-  - [Fab Academy 2021](http://fabacademy.org/2021/schedule.html)の「Feb 24: 3D scanning and printing」の[レクチャー](https://vimeo.com/516369302)・[講義資料](http://academy.cba.mit.edu/classes/scanning_printing/index.html)をみてくる
+  - アサインメント：
+    - 自分・自分たちのプロジェクトに関連したものを3Dモデリングする
+    - [Fab Academy 2021](http://fabacademy.org/2021/schedule.html)の「Feb 24: 3D scanning and printing」の[レクチャー](https://vimeo.com/516369302)・[講義資料](http://academy.cba.mit.edu/classes/scanning_printing/index.html)をみてくる
 - 3D scanning and printing ／2021年7月29日（木）10:30-14:30
   - レビュー：
   - レクチャー：3Dスキャニング、3Dプリンタ

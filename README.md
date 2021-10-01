@@ -61,9 +61,9 @@
   - レビュー：
   - レクチャー：3Dスキャニング、3Dプリンタ
   - アサインメント：
-- computer-controlled machining ／調整中
+- computer-controlled machining ／2021年10月21日（木）13:00-17:00予定
   - レビュー：
-  - レクチャー：
+  - レクチャー：CNCルーター
   - アサインメント：
   
 #### メンバー

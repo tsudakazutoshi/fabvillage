@@ -60,7 +60,7 @@
 - 3D scanning and printing ／2021年7月29日（木）10:30-14:30
   - レクチャー：3Dスキャニング、3Dプリンタ
 - computer-controlled machining ／2021年10月21日（木）13:00-17:00
-  - レクチャー：CNCルーター
+  - レクチャー：Fusion 360（CAM）、CNCルーター
   - アサインメント（準備）：
     - Autodesk Fusion 360をインストールしてくる
 

@@ -58,14 +58,12 @@
     - 自分・自分たちのプロジェクトに関連したものを3Dモデリングする
     - [Fab Academy 2021](http://fabacademy.org/2021/schedule.html)の「Feb 24: 3D scanning and printing」の[レクチャー](https://vimeo.com/516369302)・[講義資料](http://academy.cba.mit.edu/classes/scanning_printing/index.html)をみてくる
 - 3D scanning and printing ／2021年7月29日（木）10:30-14:30
-  - レビュー：
   - レクチャー：3Dスキャニング、3Dプリンタ
-  - アサインメント：
-- computer-controlled machining ／2021年10月21日（木）13:00-17:00予定
-  - レビュー：
+- computer-controlled machining ／2021年10月21日（木）13:00-17:00
   - レクチャー：CNCルーター
-  - アサインメント：
-  
+  - アサインメント（準備）：
+    - Autodesk Fusion 360をインストールしてくる
+
 #### メンバー
 - [Sachiko Matsuyama](https://sachikomatsuyama.webflow.io)
 - Takuya Tsutsumi

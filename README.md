@@ -64,14 +64,6 @@
   - アサインメント（準備）：
     - Autodesk Fusion 360をインストールしてくる
 
-### 3. クリティカル・メイキング＠フォレスト（Critical Making@forest）
-1. クリティカル・メイキングとは何か？／2021年12月23日（木）14:00-16:00
-1. 基本的な方法／2021年12月24日（金）10:00-12:00
-1. 上流のフィールドワーク
-1. 下流のフィールドワーク
-1. 循環のデザイン
-
-
 #### メンバー
 - [Sachiko Matsuyama](https://sachikomatsuyama.webflow.io)
 - Takuya Tsutsumi
@@ -89,5 +81,11 @@
 - [Hiroki Takarada](https://takahiro110710.wixsite.com/my-site-7)
 - [Ryoga Fujita](https://rfdesign210.wixsite.com/my-site-1)
 
+### 3. クリティカル・メイキング＠フォレスト（Critical Making@forest）
+1. クリティカル・メイキングとは何か？／2021年12月23日（木）14:00-16:00
+1. 基本的な方法／2021年12月24日（金）10:00-12:00
+1. 上流のフィールドワーク
+1. 下流のフィールドワーク
+1. 循環のデザイン
 
 

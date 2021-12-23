@@ -82,6 +82,7 @@
 - [Ryoga Fujita](https://rfdesign210.wixsite.com/my-site-1)
 
 ### 3. クリティカル・メイキング＠フォレスト（Critical Making@forest）
+- [シラバス](https://docs.google.com/document/d/1hLt4AraUKDrZMLQbUhMUFh-bUo7xMcup6_7gm2kAAx8/edit?usp=sharing)
 1. クリティカル・メイキングとは何か？／2021年12月23日（木）14:00-16:00
 1. 基本的な方法／2021年12月24日（金）10:00-12:00
 1. 上流のフィールドワーク

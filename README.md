@@ -25,7 +25,7 @@
 ### 2019
 - [パネルトーク「中山間地の持続可能性とデジタルファブリケーション」](http://www.vill.shinjo.okayama.jp/assets/files/kankou/190116_VUILD_チラシ.pdf)
 ### 2021
-- [里山空間デザインコンペ - 森に、居場所をつくる](https://noph.localinfo.jp/pages/5107471/page_202107210905)
+- [里山空間デザインコンペ「森に、居場所をつくる」](https://noph.localinfo.jp/pages/5107471/page_202107210905)
 ### 2022
 - オンラインセッション「ローカルの持続可能性とサーキュラーデザイン」
 ### 2023

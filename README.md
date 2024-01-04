@@ -1,27 +1,28 @@
 ## fabvillage
 ファブビレッジ・プロジェクト（Fab Village Project）
   
-近年、国内の中山間地域などにおける地域資源の活用や課題解決のために、デジタルファブリケーションの可能性を模索する取り組みがはじまっています。本プロジェクトでは、そうした地域の取り組みに併走しながら、デザインリサーチ、プロトタイピング、オープンデザインの実践的研究をおこない、地域を共につくっていきます。　　
+近年、日本国内の中山間地域などにおける地域資源の活用や課題解決のために、デジタルファブリケーションの可能性を模索する取り組みがはじまっています。本プロジェクトでは、そうした地域の取り組みに併走しながら、デザインリサーチ、プロトタイピング、オープンデザインの実践的研究をおこない、地域を共につくっていきます。　　
+
+[Kazutoshi Tsuda, Attempting to Fab in Rural Areas of Japan: From Fab Cities to Fab Villages, This is Distributed Design, Distributed Design Platform (eds), Fab Lab Barcelona (November 2021), pp.240-249.](https://distributeddesign.eu/wp-content/uploads/2021/10/This-Is-Distributed-Design-Book-by-Distributed-Design-Platform.pdf)
   
-## 地域
-### 1. 京都・京北
-- 連携機関：[一般社団法人パースペクティブ（工藝の森）](https://www.forest-of-craft.jp)、[大阪大学エスノグラフィーラボ](http://ethnography.hus.osaka-u.ac.jp)
-  - 2021年5月11日（火）12:00-13:00 ガイダンス（オンライン）
-  - 2021年7月17日（土）オリエンテーション（現地）
-### 2. 岡山・新庄村
-- 連携機関：[株式会社まちづくり新庄村 さとのふ企画室](https://noph.localinfo.jp)  
-  - 2021年5月20日（木）10:30-11:30 レクチャー（オンライン）
-## 取り組み
-### 1. マテリアルフロー調査
-- 現状調査（森林簿、統計、補助金）
-- 質問紙の作成
-- データ・ビジュアライゼーション
-  - [RAWGraphs](https://rawgraphs.io) [(GitHub)](https://github.com/rawgraphs/)
-  - [Hyphe](https://hyphe.medialab.sciences-po.fr/#page-top)
-  - [Gephi](https://gephi.org)
+## 京都・京北（Keihoku, Kyoto, Japan）
+[ファブビレッジ京北（Fab Village Keihoku）](https://www.fvk.jp)
+### 2021
+- ファブプラクティス（Fab Practice）@ KYOTO Design Lab
+- クリティカル・メイキング＠フォレスト（Critical Making @ forest）
+### 2022
+- 
+### 2023
+
+## 岡山・新庄村（Shinjo, Okayama, Japan）
+[ファブスペース新庄（Fab Space Shinjo）](https://noph.localinfo.jp)  
+### 2021
+### 2022
+### 2023
   
 ### 2. ファブプラクティス（Fab Practice）
 #### プログラム・スケジュール
+- guidance ／2021年5月11日（火）12:00-13:00 *オンライン
 - project management
   - アサインメント： 
     - 各自、ウェブサイトをつくる（Adobe Portfolio, WordPress, Wix, GitHubなど何でも可）
@@ -57,6 +58,7 @@
   - アサインメント：
     - 自分・自分たちのプロジェクトに関連したものを3Dモデリングする
     - [Fab Academy 2021](http://fabacademy.org/2021/schedule.html)の「Feb 24: 3D scanning and printing」の[レクチャー](https://vimeo.com/516369302)・[講義資料](http://academy.cba.mit.edu/classes/scanning_printing/index.html)をみてくる
+- orientation ／2021年7月17日（土）京北 
 - 3D scanning and printing ／2021年7月29日（木）10:30-14:30
   - レクチャー：3Dスキャニング、3Dプリンタ
 - computer-controlled machining ／2021年10月21日（木）13:00-17:00

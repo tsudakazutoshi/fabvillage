@@ -8,7 +8,7 @@
 ## 京都・京北（Keihoku, Kyoto, Japan）
 [ファブビレッジ京北（Fab Village Keihoku）](https://www.fvk.jp)
 ### 2021
-- ファブプラクティス（Fab Practice）@ KYOTO Design Lab
+- [ファブプラクティス（Fab Practice）@ KYOTO Design Lab](/2021_fabpractice.md)
 - クリティカル・メイキング＠フォレスト（Critical Making @ forest）
 ### 2022
 - 
@@ -19,69 +19,5 @@
 ### 2021
 ### 2022
 ### 2023
-  
-### ファブプラクティス（Fab Practice）
-#### プログラム・スケジュール
-- guidance ／2021年5月11日（火）12:00-13:00 *オンライン
-- project management
-  - アサインメント： 
-    - 各自、ウェブサイトをつくる（Adobe Portfolio, WordPress, Wix, GitHubなど何でも可）
-    - その中に、プロフィールページをつくる（関心領域・意気込み、音楽プレイリスト含む）
-    - [Fab Academy 2021](http://fabacademy.org/2021/schedule.html)の「Feb 03: computer-aided design」のレクチャー・講義資料（特に、2D design）をみてくる
-- 2D computer-aided design ／2021年6月3日（木）10:30-14:00
-  - KYOTO Design Lab ツアー
-  - レビュー：ウェブサイトをみながら自己紹介、意見交換
-  - レクチャー：[2D CAD 各種](http://academy.cba.mit.edu/classes/computer_design/index.html)、Adobe Illustrator、[EMARF](https://emarf.co)
-  - アサインメント：
-    - 2Dのデータ（ドローイング、図面など、自分・自分たちのプロジェクトに関連したもの）をつくる
-    - そのプロセスをドキュメンテーションして、ウェブサイトに掲載する
-    - [Fab Academy 2021](http://fabacademy.org/2021/schedule.html)の「Feb 10: computer-controlled cutting」の[レクチャー](https://vimeo.com/510902064)・[講義資料](http://academy.cba.mit.edu/classes/computer_cutting/index.html)をみてくる
-- computer-controlled cutting ／2021年6月17日（木）10:30-14:00
-  - レビュー：
-  - レクチャー：[カッティングの基礎](http://academy.cba.mit.edu/classes/computer_cutting/index.html)、レーザーカッターの実演
-  - アサインメント：
-    - レーザーカッターを使って、自分・自分たちのプロジェクトに関連したものをつくる
-    - オプション：カッティングプロッタを使って何かつくる
-    - そのプロセスをドキュメンテーションして、ウェブサイトに掲載する
-    - [Fab Academy 2021](http://fabacademy.org/2021/schedule.html)の「Feb 03: computer-aided design」の[レクチャー](https://vimeo.com/508409220)・[講義資料（特に、3D designの部分）](http://academy.cba.mit.edu/classes/computer_design/index.html)をみてくる
-- 3D computer-aided design ／2021年7月1日（木）10:30-14:30
-  - レビュー：
-  - レクチャー：Rhinoceros 3D
-  - アサインメント：
-    - Rhinoceros 3Dの復習をする
-      - 愛用の什器（椅子、机など）を採寸して図面（平面図、立面図、断面図）を作成する
-    - オプション：いろいろなCADソフトウェア（Blender、FreeCADなど）を使ってみる
-- Urushi ／2021年7月8日（木）13:00-14:30（※現地集合・解散）
-  - [堤淺吉漆店](https://www.urushinoippo.com/companyinfo)を見学させていただく
-- 3D computer-aided design ／2021年7月15日（木）10:30-14:30
-  - レクチャー：Rhinoceros 3D
-  - アサインメント：
-    - 自分・自分たちのプロジェクトに関連したものを3Dモデリングする
-    - [Fab Academy 2021](http://fabacademy.org/2021/schedule.html)の「Feb 24: 3D scanning and printing」の[レクチャー](https://vimeo.com/516369302)・[講義資料](http://academy.cba.mit.edu/classes/scanning_printing/index.html)をみてくる
-- orientation ／2021年7月17日（土）京北 
-- 3D scanning and printing ／2021年7月29日（木）10:30-14:30
-  - レクチャー：3Dスキャニング、3Dプリンタ
-- computer-controlled machining ／2021年10月21日（木）13:00-17:00
-  - レクチャー：Fusion 360（CAM）、CNCルーター
-  - アサインメント（準備）：
-    - Autodesk Fusion 360をインストールしてくる
-
-#### メンバー
-- [Sachiko Matsuyama](https://sachikomatsuyama.webflow.io)
-- Takuya Tsutsumi
-- [Tadashi Koike](https://note.com/tucicara_keihoku/)
-- [Kentaro Noda](https://noda33.myportfolio.com)
-- Robin Hoshino
-- [Atsuro Morita](https://stc-unit.jp)
-- [Hiroto Okuda](https://note.com/tolero/m/m217c9b31dd27)
-- [Ryota Motoyoshi](https://ryotamotoyoshi.myportfolio.com)
-- [Kazuki Tonomura](https://www.notion.so/Kazuki-Tonomura-490e662bd54145beba040ca90d5fe8c2)
-- [Arihiro Okawa](https://note.com/_a_ri_hi_ro_/m/mbc194d67e49c)
-- [Taro Chino](https://note.com/tarochino/m/m310b0d2996ab)
-- [Reo Yasue](https://fabvillagereoyasue.myportfolio.com)
-- [Mizuki Miyamoto](http://mizkingyo.starfree.jp)
-- [Hiroki Takarada](https://takahiro110710.wixsite.com/my-site-7)
-- [Ryoga Fujita](https://rfdesign210.wixsite.com/my-site-1)
-
 
 

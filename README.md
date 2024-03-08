@@ -18,6 +18,8 @@
 ### 2023
 - [FVKオープン記念トーク：ようこそ、「つくる」からつながる世界へ](https://fvkopening-1sttalk.peatix.com/)
 - [Global Goals Jam Kyoto / Keihoku 2023](https://fabcafe.com/jp/events/kyoto/ggj2023/)  
+### 2024
+- グリーンウッドワーク
 <br>    
 
 ## 岡山・新庄村（Shinjo, Okayama, Japan）
